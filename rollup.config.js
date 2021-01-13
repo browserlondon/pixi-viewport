@@ -20,7 +20,7 @@ export default [
             file: 'dist/viewport.js',
             globals:
             {
-                'pixi.js': 'PIXI'
+                'pixi.js-legacy': 'PIXI'
             },
             format: 'umd',
             name: 'Viewport',
